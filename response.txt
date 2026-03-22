@@ -1,0 +1,7 @@
+Okay, I can help with that!
+
+The information about where the project is made (specifically, creating the project folder and navigating into it) is covered in the **second video** of the course.
+
+You can find it starting around **timestamp 30125.88 seconds** (which is about 8 hours, 42 minutes, and 5 seconds into the video) in the video titled "**Power BI for Data Analytics**".
+
+You should watch that specific part of Video 02 to see the instructions about creating the "Project One" folder.
